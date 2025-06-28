@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forest Fire Spread Simulation 🔥🌲
 
 This project simulates and predicts forest fire spread using AI/ML models like U-Net and Cellular Automata.
@@ -11,3 +12,6 @@ This project simulates and predicts forest fire spread using AI/ML models like U
 ## Tools
 - Python, TensorFlow, Scikit-learn
 - Rasterio, GDAL, NumPy, Matplotlib
+=======
+# forest_fire_simulation
+>>>>>>> ba115fbef3f4438396ef59f2c058ce54c6c6ccfb
