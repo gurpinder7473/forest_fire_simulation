@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Forest Fire Spread Simulation 🔥🌲
+# Forest Fire Spread Simulation
 
 This project simulates and predicts forest fire spread using AI/ML models like U-Net and Cellular Automata.
 
